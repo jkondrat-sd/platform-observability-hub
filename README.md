@@ -1,10 +1,10 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://raw.githubusercontent.com/Devopstrio/.github/main/assets/Browser_logo.png" height="72" alt="Devopstrio Logo" />
 
 <h1>Devopstrio</h1>
 
-<p><strong>Enterprise Cloud &nbsp;Â·&nbsp; AI &nbsp;Â·&nbsp; DevOps Acceleration</strong></p>
+<p><strong>Enterprise Cloud &nbsp;&middot;&nbsp; AI &nbsp;&middot;&nbsp; DevOps Acceleration</strong></p>
 
 [![Website](https://img.shields.io/badge/Website-devopstrio.co.uk-522c72?style=for-the-badge&labelColor=0d0d0d)](https://devopstrio.co.uk/)
   <a href="https://github.com/orgs/devopstrio/repositories"><img src="https://img.shields.io/badge/Repos-180+_Public-962964?style=for-the-badge&labelColor=0d0d0d" alt="Repos"/></a>
@@ -14,9 +14,9 @@
 
 <br/>
 
-> **Building the future of enterprise infrastructure â€” one blueprint at a time.**
+> **Building the future of enterprise infrastructure &mdash; one blueprint at a time.**
 > 
-> 180+ open-source accelerators &nbsp;Â·&nbsp; 15 technology domains &nbsp;Â·&nbsp; 3 cloud providers &nbsp;Â·&nbsp; 100% production-grade
+> 180+ open-source accelerators &nbsp;&middot;&nbsp; 15 technology domains &nbsp;&middot;&nbsp; 3 cloud providers &nbsp;&middot;&nbsp; 100% production-grade
 
 </div>
 
@@ -25,5 +25,6 @@
 
 Performance-grade landing zone for enterprise infrastructure.
 
-Â© 2026 Devopstrio
+&copy; 2026 Devopstrio
+
 
